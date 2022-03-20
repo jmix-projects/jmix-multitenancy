@@ -1,8 +1,1 @@
-# Jmix Multitenancy
-
-This repository contains Multitenancy project of the [Jmix](https://jmix.io) framework.
-
-For more information see:
-
-* Jmix Core project source [repository](https://github.com/Haulmont/jmix-core).
-* Jmix [documentation](https://docs.jmix.io).
+This repository has been merged into https://github.com/jmix-framework/jmix and DEPRECATED.
